@@ -8,4 +8,4 @@ I’ve already provided some debloating tools for Windows 10 and Windows 11 (lik
 Fast, efficient, and perfectly sized. No fluff, just functionality.
 
 
-![explorer_zlUZvGjH1w](https://github.com/user-attachments/assets/d2abac53-3801-4382-a607-1f10b6fafc03)
+![Go11App_VMFvRPF4Cf](https://github.com/user-attachments/assets/337583e6-d089-4d8e-b0e8-58248b6826c0)
