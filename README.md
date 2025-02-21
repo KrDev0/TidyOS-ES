@@ -8,5 +8,6 @@ After spending years fine-tuning and tweaking Windows at a high level, I realize
 
 Fast, efficient, and perfectly sized. No fluff, just functionality.
 
+**Note:** Go11App does not require elevated privileges for regular use. However, if a higher permission is needed for a specific tweak, the app will let you know and prompt you accordingly.
 
 ![Go11App_VMFvRPF4Cf](https://github.com/user-attachments/assets/337583e6-d089-4d8e-b0e8-58248b6826c0)
