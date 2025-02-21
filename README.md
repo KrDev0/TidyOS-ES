@@ -1,9 +1,10 @@
 # Go11App
 
-Just migrated to Windows 11, maybe even using Flyby11? Now let Go11 help you get your system up and running, tailored to your needs in no time. 
-**With just a quick access to your Windows 11 Start menu, Go11App will scan and read your settings and apps, ready for you to start customizing right away**
+Just migrated to Windows 11, maybe even using Flyby11? Now let **Go11App** help you get your system up and running, tailored to your needs in no time. With **just a quick access to your Windows 11 Start menu, Go11App will scan and analyze your settings and apps**, so you can dive straight into customization.
 
-I’ve already provided some debloating tools for Windows 10 and Windows 11 (like Bloatynosy), and with all the knowledge I’ve gathered, I thought it’s time to craft a solution for the average user. Go11 combines the best of everything in one of the smallest apps in the world.
+Dont be surprised if the app looks like the Windows 11 Start menu, thats intentional! It’s the first big shock for most after diving into the deep end and upgrading to Windows 11.
+
+After spending years fine-tuning and tweaking Windows at a high level, I realized not everyone needs those complex setups. So, I decided to simplify things. Go11App is the result – a tool that makes all that expertise easy to use for anyone. Itss as intuitive as Flyby11 and the Windows 11 Start menu itself, but powerful enough to get your system just right with minimal effort.
 
 Fast, efficient, and perfectly sized. No fluff, just functionality.
 
