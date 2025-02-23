@@ -4,7 +4,7 @@ Just migrated to Windows 11, maybe even using Flyby11? Now let **ThisIsNot11** h
 
 Dont be surprised if the app looks like the Windows 11 Start menu, thats intentional! It’s the first big shock for most after diving into the deep end and upgrading to Windows 11.
 
-The tool is now officially running under ThisIsNot11! For the past two days, it was available under the name Go11, but after some reflection, I realized that name was just too generic. It could really be anything — and that’s not what this tool is about. It’s more than just a utility; it’s about making Windows 11 slimmer and better.
+The tool is now officially running under ThisIsNot11! For the past two days, it was available under the name Go11, but after some reflection, I realized that name was just too generic. It could really be anything, and that’s not what this tool is about. It’s more than just a utility; it’s about making Windows 11 slimmer and better.
 
 Yesterday marked the 4th anniversary of my first Windows 11 customization tool, ["ThisIsWin11"](https://github.com/builtbybel/ThisIsWin11). Looking back, I’ll admit the UI was pretty rough. But at the time, it was an incredibly simple tool, and it did what it needed to do. The goal was to help users easily customize Windows 11 and make it their own.
 
