@@ -13,4 +13,4 @@ Now, ThisIsNot11 takes it further. I’ve made the tool even easier to use while
 ThisIsNot11 is about taking Windows 11 and making it our own again.
 
 **Note:** ThisIsNot11 does not require elevated privileges for regular use. However, if a higher permission is needed for a specific tweak, the app will let you know and prompt you accordingly.
-![TXRNX7cHj8](https://github.com/user-attachments/assets/9a91f0bf-28cc-4e06-9ae0-487390a5f452)
+![explorer_SFgDUD11J6](https://github.com/user-attachments/assets/a915c04a-5a48-4478-a8c5-df179a69e5d5)
