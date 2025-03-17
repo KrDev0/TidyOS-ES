@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("ThisIsNot11")]
+[assembly: AssemblyTitle("TidyOS")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("A Belim app creatiom")]
-[assembly: AssemblyProduct("ThisIsNot11")]
+[assembly: AssemblyProduct("TidyOS")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("Builtbybel")]
 [assembly: AssemblyCulture("")]
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Buildnummer
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.80")]
-[assembly: AssemblyFileVersion("1.0.80")]
+[assembly: AssemblyVersion("0.20.40")]
+[assembly: AssemblyFileVersion("0.20.40")]
