@@ -1,5 +1,5 @@
 # TidyOS
-Did you switch to Windows 11 (maybe using the Flyby11 app) and feel like the OS is bloated with all its preinstalled apps and unnecessary default settings?
+Did you switch to Windows 11 (maybe using the [Flyby11](https://github.com/builtbybel/Flyby11) app) and feel like the OS is bloated with all its preinstalled apps and unnecessary default settings?
 
 The TidyOS app brings together the best of many of my apps, all wrapped in the simplest UI you'll find on Windows 11—the Start Menu. Yep, that’s exactly how the app looks.
 
