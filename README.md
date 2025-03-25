@@ -8,6 +8,6 @@ Some of you might know [Tiny11](https://github.com/ntdevlabs/tiny11builder)—th
 
 TidyOS is also highly dynamic, and advanced users can turn any PowerShell script into a plugin using the built-in plugin engine. Native plugins in JSON format have their own syntax as well. Additionally, I’m currently streamlining my GitHub repo and phasing out some projects. All features and scripts designed to create a lighter Windows 11 experience will be moved to TidyOS.
 
-**Note:** ThisIsNot11 does not require elevated privileges for regular use. However, if a higher permission is needed for a specific tweak, the app will let you know and prompt you accordingly.
+**Note:** TidyOS does not require elevated privileges for regular use. However, if a higher permission is needed for a specific tweak, the app will let you know and prompt you accordingly.
 
 ![explorer_DwHBYFdtE8](https://github.com/user-attachments/assets/70f0f27b-d245-47e6-a02b-f11b5615b7ae)
