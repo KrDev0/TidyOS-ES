@@ -1,3 +1,5 @@
+> *"If Elon had built a debloat tool just to stick it to Satya Nadella."*
+
 # TidyOS
 Did you switch to Windows 11 (maybe using the [Flyby11](https://github.com/builtbybel/Flyby11) app) and feel like the OS is bloated with all its preinstalled apps and unnecessary default settings?
 
