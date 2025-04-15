@@ -1,0 +1,5 @@
+Xbox, Solitaire, CandyCrush, Netflix, Facebook, Twitter, Instagram, Spotify, Skype, OneNote,
+OneDrive, Mail, Calendar, Weather, News, Maps, Groove, Movies,TV, People, Phone, Camera,
+Feedback, FeedbackHub, GetHelp, GetStarted, Messaging, Office, Paint3D, Print3D, StickyNotes,
+Wallet,YourPhone, 3DViewer, Alarms, VoiceRecorder, Microsoft.ToDo, Microsoft.Whiteboard,
+Microsoft.ZuneMusic, Microsoft.ZuneVideo, Microsoft.Microsoft3DViewer
