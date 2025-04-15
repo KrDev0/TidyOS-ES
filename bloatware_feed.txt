@@ -1,1 +1,6 @@
-Solitaire,CandyCrush,Netflix, Facebook,Twitter,Instagram,Spotify, Skype,OneNote,OneDrive, Mail, Calendar, Weather,News,Maps, Groove, Movies,TV, Phone, Camera,Feedback,FeedbackHub, GetHelp,GetStarted,Messaging,Office,Paint3D,Print3D,StickyNotes,Wallet,YourPhone,3DViewer,Alarms,VoiceRecorder,ToDo,Whiteboard,ZuneMusic,ZuneVideo,3DViewer, DevHome, Copilot
+Solitaire,CandyCrush,Netflix, Facebook,Twitter,Instagram,Spotify, 
+Skype,OneNote,OneDrive, Mail, Calendar, Weather,News,Maps, 
+Groove, Movies,TV, Phone, Camera,Feedback,FeedbackHub, GetHelp,
+GetStarted,Messaging,Office,Paint3D,Print3D,StickyNotes,Wallet,
+YourPhone,3DViewer,Alarms,VoiceRecorder,ToDo,Whiteboard,ZuneMusic,
+ZuneVideo,3DViewer, DevHome, Copilot
