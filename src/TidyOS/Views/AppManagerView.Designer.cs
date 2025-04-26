@@ -136,7 +136,7 @@
             this.btnRemove.FlatAppearance.BorderSize = 2;
             this.btnRemove.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(112)))), ((int)(((byte)(192)))));
             this.btnRemove.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnRemove.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.25F);
+            this.btnRemove.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.5F);
             this.btnRemove.ForeColor = System.Drawing.Color.Black;
             this.btnRemove.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnRemove.Location = new System.Drawing.Point(386, 598);
@@ -161,7 +161,7 @@
             this.btnAppsFeed.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnAppsFeed.FlatAppearance.BorderSize = 0;
             this.btnAppsFeed.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gainsboro;
-            this.btnAppsFeed.Font = new System.Drawing.Font("Segoe UI Variable Display", 9.25F);
+            this.btnAppsFeed.Font = new System.Drawing.Font("Segoe UI Variable Display", 9.5F);
             this.btnAppsFeed.ForeColor = System.Drawing.Color.Black;
             this.btnAppsFeed.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAppsFeed.Location = new System.Drawing.Point(372, 19);

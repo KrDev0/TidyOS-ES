@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("TidyOS")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("A Belim app creatiom")]
+[assembly: AssemblyCompany("A Belim app creation")]
 [assembly: AssemblyProduct("TidyOS")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("Builtbybel")]
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Buildnummer
 //      Revision
 //
-[assembly: AssemblyVersion("0.61.50")]
-[assembly: AssemblyFileVersion("0.61.50")]
+[assembly: AssemblyVersion("0.62.0")]
+[assembly: AssemblyFileVersion("0.62.0")]

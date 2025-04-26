@@ -43,10 +43,10 @@
             this.lblHeader.AutoEllipsis = true;
             this.lblHeader.Font = new System.Drawing.Font("Segoe UI Variable Text Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.lblHeader.ForeColor = System.Drawing.Color.Black;
-            this.lblHeader.Location = new System.Drawing.Point(12, 22);
+            this.lblHeader.Location = new System.Drawing.Point(34, 22);
             this.lblHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblHeader.Name = "lblHeader";
-            this.lblHeader.Size = new System.Drawing.Size(515, 39);
+            this.lblHeader.Size = new System.Drawing.Size(489, 29);
             this.lblHeader.TabIndex = 263;
             this.lblHeader.Text = "Review your selections";
             this.lblHeader.UseCompatibleTextRendering = true;
@@ -57,7 +57,7 @@
             this.btnViewScript.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(39)))));
             this.btnViewScript.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnViewScript.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnViewScript.Font = new System.Drawing.Font("Segoe UI Variable Text", 8F);
+            this.btnViewScript.Font = new System.Drawing.Font("Segoe UI Variable Display", 8.5F);
             this.btnViewScript.ForeColor = System.Drawing.Color.White;
             this.btnViewScript.Location = new System.Drawing.Point(408, 532);
             this.btnViewScript.Margin = new System.Windows.Forms.Padding(4);
@@ -98,7 +98,7 @@
             this.btnRun.FlatAppearance.BorderSize = 2;
             this.btnRun.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(112)))), ((int)(((byte)(192)))));
             this.btnRun.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnRun.Font = new System.Drawing.Font("Segoe UI Variable Text Semibold", 10.25F);
+            this.btnRun.Font = new System.Drawing.Font("Segoe UI Variable Display Semib", 10.5F, System.Drawing.FontStyle.Bold);
             this.btnRun.ForeColor = System.Drawing.Color.Black;
             this.btnRun.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnRun.Location = new System.Drawing.Point(408, 598);

@@ -60,7 +60,7 @@
             // 
             this.lblCopyright.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblCopyright.BackColor = System.Drawing.Color.Transparent;
-            this.lblCopyright.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.5F);
+            this.lblCopyright.Font = new System.Drawing.Font("Segoe UI Variable Text", 9.5F);
             this.lblCopyright.ForeColor = System.Drawing.Color.Black;
             this.lblCopyright.Location = new System.Drawing.Point(30, 94);
             this.lblCopyright.Name = "lblCopyright";
@@ -118,7 +118,7 @@
             this.lblAppVersion.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblAppVersion.AutoEllipsis = true;
             this.lblAppVersion.BackColor = System.Drawing.Color.Transparent;
-            this.lblAppVersion.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.5F);
+            this.lblAppVersion.Font = new System.Drawing.Font("Segoe UI Variable Text Semibold", 9.5F, System.Drawing.FontStyle.Bold);
             this.lblAppVersion.ForeColor = System.Drawing.Color.Black;
             this.lblAppVersion.Location = new System.Drawing.Point(30, 64);
             this.lblAppVersion.Name = "lblAppVersion";

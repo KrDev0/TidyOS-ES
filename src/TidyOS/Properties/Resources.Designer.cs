@@ -61,7 +61,17 @@ namespace TidyOS.Properties {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Solitaire,CandyCrush,Netflix, Facebook,Twitter,Instagram,Spotify, Skype,OneNote,OneDrive, Mail, Calendar, Weather,News,Maps, Groove, Movies,TV, Phone, Camera,Feedback,FeedbackHub, GetHelp,GetStarted,Messaging,Office,Paint3D,Print3D,StickyNotes,Wallet,YourPhone,3DViewer,Alarms,VoiceRecorder,ToDo,Whiteboard,ZuneMusic,ZuneVideo,3DViewer, DevHome ähnelt.
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap AppIcon24 {
+            get {
+                object obj = ResourceManager.GetObject("AppIcon24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Solitaire,CandyCrush,Netflix, Facebook,Twitter,Instagram,Spotify, Skype,OneNote,OneDrive, Mail, Calendar, Weather,News,Maps, Groove, Movies,TV, Phone, Camera,Feedback,FeedbackHub, GetHelp,GetStarted,Messaging,Office,Paint3D,Print3D,StickyNotes,Wallet,YourPhone,3DViewer,Alarms,VoiceRecorder,ToDo,Whiteboard,ZuneMusic,ZuneVideo,3DViewer, DevHome, Copilot ähnelt.
         /// </summary>
         internal static string PredefinedApps {
             get {

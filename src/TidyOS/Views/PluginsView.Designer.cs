@@ -30,7 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             this.treePlugins = new System.Windows.Forms.TreeView();
-            this.lblInstalled = new System.Windows.Forms.Label();
             this.btnNext = new System.Windows.Forms.Button();
             this.btnImport = new System.Windows.Forms.Button();
             this.btnPluginsDir = new System.Windows.Forms.Button();
@@ -56,29 +55,15 @@
             this.treePlugins.FullRowSelect = true;
             this.treePlugins.HotTracking = true;
             this.treePlugins.ItemHeight = 22;
-            this.treePlugins.Location = new System.Drawing.Point(31, 123);
+            this.treePlugins.Location = new System.Drawing.Point(48, 89);
             this.treePlugins.Margin = new System.Windows.Forms.Padding(4);
             this.treePlugins.Name = "treePlugins";
             this.treePlugins.ShowLines = false;
             this.treePlugins.ShowNodeToolTips = true;
             this.treePlugins.ShowPlusMinus = false;
-            this.treePlugins.Size = new System.Drawing.Size(492, 467);
+            this.treePlugins.Size = new System.Drawing.Size(477, 488);
             this.treePlugins.TabIndex = 256;
             this.treePlugins.AfterCheck += new System.Windows.Forms.TreeViewEventHandler(this.treePlugins_AfterCheck);
-            // 
-            // lblInstalled
-            // 
-            this.lblInstalled.Font = new System.Drawing.Font("Segoe UI Variable Small Semibol", 11F, System.Drawing.FontStyle.Bold);
-            this.lblInstalled.ForeColor = System.Drawing.Color.Black;
-            this.lblInstalled.Location = new System.Drawing.Point(19, 90);
-            this.lblInstalled.Margin = new System.Windows.Forms.Padding(4);
-            this.lblInstalled.Name = "lblInstalled";
-            this.lblInstalled.Padding = new System.Windows.Forms.Padding(0, 0, 0, 5);
-            this.lblInstalled.Size = new System.Drawing.Size(109, 32);
-            this.lblInstalled.TabIndex = 260;
-            this.lblInstalled.Text = "Installed";
-            this.lblInstalled.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblInstalled.UseCompatibleTextRendering = true;
             // 
             // btnNext
             // 
@@ -88,7 +73,7 @@
             this.btnNext.FlatAppearance.BorderSize = 2;
             this.btnNext.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(112)))), ((int)(((byte)(192)))));
             this.btnNext.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnNext.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.25F);
+            this.btnNext.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.5F);
             this.btnNext.ForeColor = System.Drawing.Color.Black;
             this.btnNext.Location = new System.Drawing.Point(408, 598);
             this.btnNext.Margin = new System.Windows.Forms.Padding(4);
@@ -108,7 +93,7 @@
             this.btnImport.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnImport.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnImport.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnImport.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.25F);
+            this.btnImport.Font = new System.Drawing.Font("Segoe UI Variable Display", 10.5F);
             this.btnImport.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(221)))), ((int)(((byte)(221)))), ((int)(((byte)(221)))));
             this.btnImport.Location = new System.Drawing.Point(349, 19);
             this.btnImport.Name = "btnImport";
@@ -167,7 +152,6 @@
             this.panelContainer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(247)))), ((int)(((byte)(242)))));
             this.panelContainer.Controls.Add(this.treePlugins);
             this.panelContainer.Controls.Add(this.panelHeader);
-            this.panelContainer.Controls.Add(this.lblInstalled);
             this.panelContainer.Controls.Add(this.btnNext);
             this.panelContainer.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelContainer.Location = new System.Drawing.Point(0, 0);
@@ -196,7 +180,7 @@
             this.lblHeader.AutoEllipsis = true;
             this.lblHeader.Font = new System.Drawing.Font("Segoe UI Variable Text Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.lblHeader.ForeColor = System.Drawing.Color.Black;
-            this.lblHeader.Location = new System.Drawing.Point(12, 22);
+            this.lblHeader.Location = new System.Drawing.Point(34, 22);
             this.lblHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblHeader.Name = "lblHeader";
             this.lblHeader.Size = new System.Drawing.Size(306, 39);
@@ -225,7 +209,6 @@
         #endregion
 
         private System.Windows.Forms.TreeView treePlugins;
-        private System.Windows.Forms.Label lblInstalled;
         private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.Button btnImport;
         public System.Windows.Forms.Button btnPluginsDir;
